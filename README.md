@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I am a web developer who love react
+I am a web developer who love turning ideas into interaction, user-friendly websites.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ektabhaiswar@gmail.com](mailto:ektabhaiswar@gmail.com)
