@@ -1,215 +1,117 @@
 <div align="center">
 
-# Hi there, I'm Ekta Bhaiswar 👋
+# Hi 👋, I'm Ekta Bhaiswar
 
-### 🌐 Web Development Enthusiast | 💻 Computer Science Student | 🚀 Future Software Developer
+### 💻 Computer Science Student | 🌐 Web Development Enthusiast | 📚 Lifelong Learner
 
-*"Building modern web experiences, one project at a time."*
-
-<p>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+I'm a passionate Computer Science student who enjoys learning web development and building projects to improve my skills. I believe in learning by doing and I'm excited to grow as a developer.
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a passionate **Computer Science student** with a growing interest in **Web Development**. I enjoy creating responsive websites, learning new technologies, and building projects that solve real-world problems.
-
-✨ **A little about me**
-
-- 🎓 Computer Science Engineering Student
-- 🌐 Passionate about Frontend & Full Stack Development
-- 💻 Currently learning React, Firebase & MERN Stack
-- 🚀 Building real-world projects
-- 📚 Improving JavaScript every day
-- 🤝 Open to internships & collaborations
-- 💡 Love transforming ideas into interactive web applications
+- 🎓 I'm currently pursuing a B.Tech in Computer Science.
+- 🌱 I'm learning **React, JavaScript, Tailwind CSS, and Firebase**.
+- 💡 I enjoy building responsive and user-friendly websites.
+- 🚀 Currently working on real-world web development projects.
+- 📖 I love learning new technologies and improving my coding skills every day.
+- 🎯 My goal is to become a Full Stack Software Developer.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Languages & Technologies
 
-### 💻 Languages
+### Languages
 
-<p>
+- C
+- C++
+- JavaScript
+- HTML
+- CSS
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css"/>
+### Currently Learning
 
-</p>
+- React.js
+- Tailwind CSS
+- Firebase
+- Git & GitHub
+- Node.js (Beginner)
 
-### ⚛️ Frameworks & Libraries
+### Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,express"/>
-
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=firebase,mongodb"/>
-
-</p>
-
-### ⚙️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-
-</p>
+- VS Code
+- Git
+- GitHub
+- npm
+- Firebase
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
-## 📌 Smart Attendance System *(Currently Developing)*
+### 📌 Smart Attendance System *(Ongoing)*
 
-A modern attendance management system for students, teachers and admins.
+A web-based attendance management system where students, teachers, and admins can manage attendance efficiently.
 
-### Features
+**Tech Stack**
 
-- 🔐 Secure Authentication
-- 👨‍🏫 Teacher Dashboard
-- 👨‍💼 Admin Dashboard
-- 👨‍🎓 Student Dashboard
-- 📊 Attendance Analytics
-- 📱 Responsive Design
-
-**Tech Used**
-
-React • Firebase • Tailwind CSS • JavaScript
+- React
+- Firebase
+- Tailwind CSS
+- JavaScript
 
 ---
 
-## 🌐 Personal Portfolio Website
+### 🌐 Personal Portfolio Website
 
-A responsive portfolio website showcasing my skills, achievements and projects.
-
-### Features
-
-- Responsive Design
-- Modern UI
-- Smooth Animations
-- Project Showcase
-- Contact Section
-
-**Tech Used**
-
-HTML • CSS • JavaScript • React
+A responsive portfolio website to showcase my projects, skills, and learning journey.
 
 ---
 
-## 🚀 More Projects Coming Soon...
+## 📚 Currently Exploring
 
-I'm continuously learning and building exciting web applications.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- Responsive Web Design
+- React Development
+- REST APIs
+- Backend Development
+- MERN Stack
 
 ---
 
-# 🌱 Currently Learning
+## 🎯 Goals
 
-- ⚛️ React.js
-- 🔥 Firebase
-- 🎨 Tailwind CSS
-- 🟢 Node.js
-- 🚀 Express.js
-- 🍃 MongoDB
-- 🌐 REST APIs
-- 📦 MERN Stack
+- Build more real-world projects.
+- Improve my React and JavaScript skills.
+- Learn backend development.
+- Contribute to open-source projects.
+- Secure a Software Development Internship.
 
 ---
 
-# 🎯 2026 Goals
+## 📈 GitHub Stats
 
-- ✅ Build 20+ Projects
-- ✅ Master React
-- ✅ Learn Backend Development
-- ✅ Contribute to Open Source
-- ✅ Become a Full Stack Developer
-- ✅ Land a Software Development Internship
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-# 📈 Contribution Graph
+## 🤝 Connect With Me
 
-<p align="center">
+📧 Email: ektabhaiswar@gmail.com
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+💼 LinkedIn: (https://www.linkedin.com/in/ekta-bhaiswar-1414882a6/)
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> **"Code. Learn. Build. Repeat."** 🚀
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-📧 **Email:** YOUR_EMAIL
-
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
-
-💻 **GitHub:** https://github.com/YOUR_USERNAME
-
-</p>
+🐙 GitHub: https://github.com/Ekta0912
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🌟 Thanks for visiting my profile!
 
-*Happy Coding!* 💜
+*"Every expert was once a beginner. I'm enjoying the journey of learning, building, and growing as a developer."* 🚀
 
 </div>
