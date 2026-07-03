@@ -90,14 +90,6 @@ A responsive portfolio website to showcase my projects, skills, and learning jou
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 📧 Email: ektabhaiswar@gmail.com
