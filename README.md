@@ -86,7 +86,7 @@ A responsive portfolio website to showcase my projects, skills, and learning jou
 - Improve my React and JavaScript skills.
 - Learn backend development.
 - Contribute to open-source projects.
-- Secure a Software Development Internship.
+- Secure a Web Development Internship.
 
 ---
 
