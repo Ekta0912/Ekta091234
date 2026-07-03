@@ -1,41 +1,215 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ekta Bhaiswar
-=====================================================================================================================================
+<div align="center">
 
-Web developer
--------------
+# Hi there, I'm Ekta Bhaiswar 👋
 
-I am a web developer who love turning ideas into interaction, user-friendly websites.
+### 🌐 Web Development Enthusiast | 💻 Computer Science Student | 🚀 Future Software Developer
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [ektabhaiswar@gmail.com](mailto:ektabhaiswar@gmail.com)
-* 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on Projects
+*"Building modern web experiences, one project at a time."*
 
-<a href="https://www.github.com/ekta0912" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ekta0912?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Skills
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square"/>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/ekta0912" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/ektabhaiswar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/ektabhaiswar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
 
-### Badges
+# 👩‍💻 About Me
 
-<b>My GitHub Stats</b>
+I'm a passionate **Computer Science student** with a growing interest in **Web Development**. I enjoy creating responsive websites, learning new technologies, and building projects that solve real-world problems.
 
-<a href="http://www.github.com/ekta0912"><img src="https://github-readme-stats.vercel.app/api?username=ekta0912&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ekta0912's GitHub stats" /></a>
+✨ **A little about me**
 
-<a href="http://www.github.com/ekta0912"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ekta0912&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 🎓 Computer Science Engineering Student
+- 🌐 Passionate about Frontend & Full Stack Development
+- 💻 Currently learning React, Firebase & MERN Stack
+- 🚀 Building real-world projects
+- 📚 Improving JavaScript every day
+- 🤝 Open to internships & collaborations
+- 💡 Love transforming ideas into interactive web applications
 
-<a href="https://github.com/ekta0912" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekta0912&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+# 🛠 Tech Stack
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+### 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css"/>
+
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,express"/>
+
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb"/>
+
+</p>
+
+### ⚙️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 Smart Attendance System *(Currently Developing)*
+
+A modern attendance management system for students, teachers and admins.
+
+### Features
+
+- 🔐 Secure Authentication
+- 👨‍🏫 Teacher Dashboard
+- 👨‍💼 Admin Dashboard
+- 👨‍🎓 Student Dashboard
+- 📊 Attendance Analytics
+- 📱 Responsive Design
+
+**Tech Used**
+
+React • Firebase • Tailwind CSS • JavaScript
+
+---
+
+## 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing my skills, achievements and projects.
+
+### Features
+
+- Responsive Design
+- Modern UI
+- Smooth Animations
+- Project Showcase
+- Contact Section
+
+**Tech Used**
+
+HTML • CSS • JavaScript • React
+
+---
+
+## 🚀 More Projects Coming Soon...
+
+I'm continuously learning and building exciting web applications.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛️ React.js
+- 🔥 Firebase
+- 🎨 Tailwind CSS
+- 🟢 Node.js
+- 🚀 Express.js
+- 🍃 MongoDB
+- 🌐 REST APIs
+- 📦 MERN Stack
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 20+ Projects
+- ✅ Master React
+- ✅ Learn Backend Development
+- ✅ Contribute to Open Source
+- ✅ Become a Full Stack Developer
+- ✅ Land a Software Development Internship
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"Code. Learn. Build. Repeat."** 🚀
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+📧 **Email:** YOUR_EMAIL
+
+💼 **LinkedIn:** YOUR_LINKEDIN_URL
+
+💻 **GitHub:** https://github.com/YOUR_USERNAME
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Happy Coding!* 💜
+
+</div>
